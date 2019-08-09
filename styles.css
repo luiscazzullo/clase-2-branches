@@ -37,6 +37,13 @@ ul li {
     float: left;
 }
 
+/*  ABOUT US*/
+
+.about-us {
+    background: pink;
+    text-align: center;
+}
+
 /*FOOTER*/
 
 footer {
