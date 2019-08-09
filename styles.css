@@ -19,3 +19,22 @@ body, html {
   transform: translate(-50%, -50%);
   color: black;
 }
+
+/*NAV*/
+
+header nav {
+    background: blue;
+    color: white;
+    display: flex;
+}
+
+
+ul li {
+    list-style: none;
+    color: white;
+    font-weight: bold;
+    padding: 8px;
+    float: left;
+}
+
+/**/
