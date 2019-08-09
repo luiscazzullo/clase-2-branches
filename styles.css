@@ -37,4 +37,15 @@ ul li {
     float: left;
 }
 
-/**/
+/*FOOTER*/
+
+footer {
+    background: blue;
+    height: 200px;
+}
+
+footer h5 {
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
